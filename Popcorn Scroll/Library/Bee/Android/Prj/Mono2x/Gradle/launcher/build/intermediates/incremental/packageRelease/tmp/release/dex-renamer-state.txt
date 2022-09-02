@@ -1,0 +1,4 @@
+#Thu Sep 01 17:33:30 EET 2022
+base.0=D\:\\GitHub\\PopcornScroll\\Popcorn Scroll\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
